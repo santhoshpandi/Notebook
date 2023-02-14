@@ -1,0 +1,181 @@
+body{
+    background-color: brown;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 500;
+    height: 1000;
+    position: relative;
+    left: 45ex;
+}
+.images{    
+    position: absolute;
+    top: 65px;
+    z-index: 1;
+}
+.little{
+    z-index: 2;
+    font-family: "Brush Script MT", cursive;
+    position: relative;
+    top:18.8cm;
+    left:10cm;
+    color: crimson;
+}
+.and{
+    z-index: 2;
+    font-family: "Brush Script MT", cursive;
+    position: relative;
+    top:17.9cm;
+    left:10.6cm;
+    color: crimson;
+}
+.lovely{
+    z-index: 2;
+    font-family: "Brush Script MT", cursive;
+    position: relative;
+    top:17cm;
+    left:10cm;
+    color: crimson;
+}
+.angel{
+    z-index: 2;
+    font-family: "Brush Script MT", cursive;
+    position: relative;
+    top:16.2cm;
+    left:10.1cm;
+    color: crimson;
+    
+}
+.container2{
+    background-color: rgb(255, 255, 255);
+    z-index: 2;
+    position: absolute;
+    width: 4cm;
+    height: 13mm;
+ 
+    margin: 20px;
+    left: 7.2cm;
+    top:69px;
+    text-align: center;
+    
+}
+#mar{
+    text-align: center;
+    position: relative;
+    top:4px;
+    left:-9px;
+    font-family: impact,cursive;
+    font-style: bold;
+}
+.marvel{
+    color: rgb(68, 0, 255);
+    position: absolute;
+    top:-20px;
+    left:23px;
+    margin: auto;
+    
+}
+.executive{
+    position: relative;
+    top:-5mm;
+}
+.container21{
+    background-color: rgb(255, 251, 28);
+    z-index: 2;
+    position: absolute;
+    width: 4cm;
+    height: 20px;    
+    top:50px;
+    text-align: center;
+        
+}
+.container1{
+    background-color: rgb(51, 0, 172);
+    z-index: 2;
+    position:relative;
+    width: 3.5cm;
+    height: 2.5cm;
+    text-align: center;
+    top:-6.305cm;
+    left:40px;
+
+}
+#premium{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top:25px;
+}
+#series{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top:5px;
+    
+}
+#dot{
+    position: relative;
+    text-align: center;
+    top:-35px;
+}
+.container3{
+    z-index: 3;
+    position: relative;
+    text-align: center;
+    background-color: rgb(51, 0, 172);
+    width: 2.8cm;
+    height: 4.3cm;
+    top:13.48cm;
+    left:56px;
+    
+
+}
+#paint{
+    position: relative;
+    top:20px;
+}
+#long{
+    color: azure;
+    position: relative;
+    top:-5px;
+    font-family: "Brush Script MT", cursive;
+
+}
+#note{
+    color: azure;
+    position: relative;
+    top:-25px;
+    font-family: "Brush Script MT", cursive;
+
+}
+.quote{
+    z-index: 2;
+    position: relative;
+    top:9.45cm;
+    left:4.8cm;
+}
+#pre{
+    color: rgb(147, 22, 0);
+}
+#first{
+    position: relative;
+    top:-10px;
+}
+#second{
+    position: relative;
+    top:-35px;
+}
+#third{
+    position: relative;
+    top:-60px;
+}
+#abdul{
+    position: relative;
+    top:-81px;
+    left:85px;
+}
+.lion{
+    position: relative;
+    z-index: 2;
+    top:4.75cm;
+    left:10cm;
+
+}
